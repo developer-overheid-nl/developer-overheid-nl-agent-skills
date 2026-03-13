@@ -7,13 +7,15 @@ publiccodeYmlVersion: "0.5"
 name: Developer Overheid NL Agent Skills
 url: "https://github.com/developer-overheid-nl/developer-overheid-nl-agent-skills"
 
-# Todo; make a page about these skills on the knowledge base (https://developer.overheid.nl/kennisbank)
+# Todo: make a page about these skills on the knowledge base (https://developer.overheid.nl/kennisbank/ai/toosl/nl-agentic-skills)
 landingURL: "https://developer.overheid.nl"
 
-softwareType: library
+softwareType: addon
 
 platforms:
-  - web
+  - linux
+  - windows
+  - mac
 
 categories:
   - it-development

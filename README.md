@@ -19,10 +19,10 @@ Agent skills for the Dutch Government Developer Portal (developer.overheid.nl) k
 
 ### Claude Code
 
-Install via the [overheid-plugins](https://github.com/MinBZK/overheid-claude-plugins) marketplace:
+Install via the [overheid-plugins]([https://github.com/MinBZK/overheid-claude-plugins](https://github.com/developer-overheid-nl/skills-marketplace)) marketplace:
 
 ```
-claude plugin marketplace add MinBZK/overheid-claude-plugins
+claude plugin marketplace add developer-overheid-nl/skills-marketplace
 claude plugin install developer-overheid@overheid-plugins
 ```
 

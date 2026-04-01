@@ -74,6 +74,10 @@ localisation:
     - nl
   localisationReady: false
 
-# This is a beta project with no official maintainers
 maintenance:
-  type: none
+  type: internal
+
+  contacts:
+    - name: developer.overheid.nl
+      email: deveveloper.overheid@geonovum.nl
+      affiliation: Geonovum

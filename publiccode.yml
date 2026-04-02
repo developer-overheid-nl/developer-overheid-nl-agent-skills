@@ -4,7 +4,7 @@
 
 publiccodeYmlVersion: "0.5"
 
-name: Developer Overheid NL Agent Skills
+name: Developer.overheid.nl Agent Skills
 url: "https://github.com/developer-overheid-nl/skills-developer-overheid-nl"
 
 # Todo: make a page about these skills on the knowledge base (https://developer.overheid.nl/kennisbank/ai/toosl/nl-agentic-skills)
@@ -79,5 +79,5 @@ maintenance:
 
   contacts:
     - name: developer.overheid.nl
-      email: deveveloper.overheid@geonovum.nl
+      email: developer.overheid@geonovum.nl
       affiliation: Geonovum
